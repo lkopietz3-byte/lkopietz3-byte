@@ -6,7 +6,7 @@ Open to AI enablement, AI operations, product operations and AI deployment roles
 
 ## What I built in the open
 
-- [honesty-kits](https://github.com/lkopietz3-byte/honesty-kits): 15 small TypeScript checks for the claims an AI product makes: citations, numbers, accuracy figures, spend. Try 12 of them in your browser.
+- [honesty-kits](https://github.com/lkopietz3-byte/honesty-kits): 15 small TypeScript checks for the claims an AI product makes: citations, numbers, accuracy figures, spend. Try all 15 in your browser.
 - [honesty-mcp](https://github.com/lkopietz3-byte/honesty-mcp): the same checks as tools for coding agents. `npx -y honesty-mcp`.
 - [accuracy-claim-kit](https://github.com/lkopietz3-byte/accuracy-claim-kit): does an accuracy number have the evidence to carry it? Its benchmark reproduces with one command.
 
