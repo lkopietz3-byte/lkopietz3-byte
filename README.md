@@ -10,7 +10,7 @@ My work is AI enablement, AI operations and product operations. Site: [lucaskopi
 - [honesty-mcp](https://github.com/lkopietz3-byte/honesty-mcp): runs the kits as tools in Claude Code and other MCP clients that can start a local server. `npx -y honesty-mcp`.
 - [accuracy-claim-kit](https://github.com/lkopietz3-byte/accuracy-claim-kit): does an accuracy number have the evidence to carry it? From a clone with Python 3, run npm ci, then npm run bench: it checks the kit against a second implementation of the same rules and against the holdout labels.
 
-The four apps on my site (ContextOps, ProofPrism, Disclosed and LaunchPlanr) aren't on this account. Their pages show how they work and where they stop.
+The four apps on my site (ContextOps, ProofPrism, Disclosed and LaunchPlanr) aren't on this account. Their pages show how they work and where they stop. I also built [Dangerous Path](https://www.lucaskopietz.com/work/dangerous-path), a 26-week learning app for myself, to understand the code my agents write. Its page has a demo you can try.
 
 ## How I teach
 
